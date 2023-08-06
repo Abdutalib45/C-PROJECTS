@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1691362056 source:d:\embedded\c-projects\student_managment_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"student.h"
+
+1691360754 d:\embedded\c-projects\student_managment_system\student.h
+
+1691361973 source:d:\embedded\c-projects\student_managment_system\queue.c
+	"student.h"
+	<stdlib.h>
+
